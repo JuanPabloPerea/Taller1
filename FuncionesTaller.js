@@ -51,7 +51,7 @@ function consumoEuropa(){
             // Creacion de la grafica
             var graficaAsia = [
                 {
-                    x: key1,
+                    x: key1[1],
                     y: categorias1,
                     type: 'bar'
                 }
